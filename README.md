@@ -3,6 +3,17 @@
 Çocuklar için özel olarak tasarlanmış, sualtı temalı, hem eğlenceli hem de eğitici bir matematik oyunudur. Oyuncular sualtında yükselen baloncuklardaki matematik işlemlerini çözerek baloncukları patlatır, puan toplar ve deniz rozetleri kazanırlar!
 
 ---
+## 📸 Oyun İçi Görseller
+
+| Karakter Seçimi | Ana Menü |
+| :---: | :---: |
+| <img src="Ekran görüntüsü 2026-07-22 190802.png" width="300"> | <img src="Ekran görüntüsü 2026-07-22 191044.png" width="300"> |
+
+| Rozet Sistemi | Game Over Ekranı |
+| :---: | :---: |
+| <img src="Ekran görüntüsü 2026-07-22 191027.png" width="300"> | <img src="Ekran görüntüsü 2026-07-22 190933.png" width="300"> |
+
+---
 
 ## 🚀 Özellikler
 
