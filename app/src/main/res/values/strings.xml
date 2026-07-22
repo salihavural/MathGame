@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="question_text">Soru burada</string>
+    <string name="score_text">Puan: 0</string>
+</resources>
